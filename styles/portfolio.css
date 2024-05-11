@@ -28,7 +28,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero h1 {
@@ -85,7 +85,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content h1 {
@@ -187,10 +187,6 @@ footer .contact-box p {
   .hero h1 {
     font-size: 44px;
     line-height: 56px;
-  }
-
-  .hero {
-    padding: 80px 20px;
   }
 
   .content {
